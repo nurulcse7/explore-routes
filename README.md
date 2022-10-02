@@ -1,11 +1,11 @@
-# ExploreRoutes
+# Explore Routes
 
 ### Code [Click here](https://github.com/nurulcse7/explore-routes)
 
 ### Technology
 01. JavaScript 
 02. React.JS 
-03. React Router 
+03. React Router [Docs](https://reactrouter.com/en/main) npm install react-router-dom
 04. 
 
 <!-- 
